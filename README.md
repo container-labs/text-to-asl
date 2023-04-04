@@ -25,6 +25,6 @@ Evaluation and improvement: Evaluate the model using relevant metrics, such as a
 
 
 
-### Resources 
+### Training
 
-+ Labeled ASL alphabet data [link](https://www.kaggle.com/datasets/grassknoted/asl-alphabet)
+Read about training [here](./train/README.md)
