@@ -1,0 +1,14 @@
+# https://medium.com/@udiyosovzon/how-to-activate-conda-environment-in-vs-code-ce599497f20d
+name: aslenv
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pytorch=1.13
+  - torchvision=0.14
+  - pytorch-lightning=1.7.7
+  - transformers=4.23.1
+  - pip:
+    - test-tube==0.7.5
